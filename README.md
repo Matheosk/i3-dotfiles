@@ -11,5 +11,4 @@ You need more information?
 * **polybar** - Status bar
 * **ranger** - file explorer
 * **rofi** - app launcher and powermenu
-* **picom** - window animations (!(pijulius fork)[https://github.com/pijulius/picom])
-* 
+* **picom** - window animations ([pijulius fork](https://github.com/pijulius/picom))
